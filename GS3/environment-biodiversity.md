@@ -18,7 +18,7 @@ Template:
 - Tamil Nadu to establish Vulture Safe Zones (VSZs) following Madras HC proceedings.
 
 **Key Facts (Prelims)**
-- First VSZ: Moyar River Valley
+- First VSZ: Moyar River Valley [ Moyar Rivers is west to east flowing, it is tributory of Bhavani River]
 - Location: Nilgiris Biosphere Reserve
 - Threat: Veterinary NSAIDs (Diclofenac)
 - Authority: TN Forest Department
