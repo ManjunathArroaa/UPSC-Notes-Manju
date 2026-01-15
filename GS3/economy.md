@@ -27,7 +27,7 @@ Template:
 ### Base Year Update
 - Old CPI base year: **2012**
 - New CPI base year: **2024**
-- New weights derived from **Household Consumption Expenditure Survey (HCES) 2023–24**
+- New weights derived from **Household Consumption Expenditure Survey (HCES) 2023–24**  released by NSO  under Ministry of statistics & Program implementation 
 
 ---
 
